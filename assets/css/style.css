@@ -1,0 +1,15 @@
+/*general*/
+html, body {
+	background: url('../images/cork-wallet.png');
+}
+
+/*jumbotron*/
+.jumbotron {
+	text-align: center;
+}
+
+/*footer*/
+.footer {
+	padding: 10px 0;
+	text-align: center;
+}
