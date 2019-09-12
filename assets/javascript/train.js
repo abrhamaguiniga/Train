@@ -4,7 +4,7 @@ var trainName = "";
 var dest = "";
 var firstTime = "";
 var frequency = 0;
-
+//I have created the firebase for the train schedule but it doesnt seem that its able to display or recive the data the user is inputing into the firebase
 var config = {
     apiKey: "AIzaSyD7FBdj4shImz19pCso4RlDRXZh198ABco",
     authDomain: "train-schedule-c7396.firebaseio.com/",
